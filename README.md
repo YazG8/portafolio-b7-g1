@@ -3,6 +3,8 @@ Proyecto de un portafolio desarrollado en el Bootcamp de desarrollo FrontEnd de 
 
 El portafolio es responsivo (adaptable a diferentes tamaños de pantalla) e incluye la presentación de la autora del proyecto.
 
+Link del proyecto desplegado: https://portafolioyaz-b7-g1.netlify.app/
+
 <h2>Secciones de mi portafolio: </h2>
 	
 <img src="assets/readme/1.png" alt="presentacion">
